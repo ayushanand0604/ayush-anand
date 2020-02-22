@@ -1,2 +1,2 @@
-# ayush-anand
-I am a Electronics and communication engineer
+IT IS A NEWS WEBSITE MADE BY ME FOR PRACTICE PURPOSE.
+IT IS MADE WITH HTML AND CSS.
